@@ -16,9 +16,7 @@
 
 ## Progress
 
-### <u>**Design**</u>
-
-Nov 20th
+## **Nov 20th**
 
 - Original Content Listing
 - Top Bar section completes
@@ -75,3 +73,21 @@ Nov 20th
   > How many graduates and where they end up getting jobs
 
   > As seen in
+
+## **Nov 21th**
+
+- Decided to ditch the original color palette
+- Delete "Curriculum Highlights" Text, seems redundant..
+- <mark>Change Curriculun Highlights to this effect</mark>
+
+![img](https://res.cloudinary.com/zzrot/image/upload/v1669050363/new%20freecodecamp/chrome_L0nAq1aaPO.png)
+
+**TODOS:**
+
+- [ ] How to make those fonts size to be **random within a range**
+  - [ ] font size choices are: 
+    - [ ] 64 OR 40 OR 24
+- [ ] How to make them **"float around"** // fuck me this is gonna be a brain scratcher
+  - [ ] Make them move around at a really low speed
+- [ ] Once you hover your mouse pointer to those words, it will be **added a background + float above everything else**
+- [ ] 
